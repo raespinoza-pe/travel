@@ -1,0 +1,3 @@
+com\example\travel\TravelApplication.class
+com\example\travel\ServletInitializer.class
+com\example\travel\config\CORSFilter.class
